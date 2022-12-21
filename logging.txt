@@ -1,0 +1,144 @@
+Request method:	POST
+Request URI:	https://rahulshettyacademy.com/maps/api/place/add/json?key=qaclick123
+Proxy:			<none>
+Request params:	<none>
+Query params:	key=qaclick123
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "accuracy": 100,
+    "name": "Jarewadi School",
+    "phone_number": "9923580883",
+    "address": "Jarewadi",
+    "website": "www.ashok.com",
+    "language": "India",
+    "types": [
+        "Home",
+        "House",
+        "Resident"
+    ],
+    "location": {
+        "lat": -12.077,
+        "lng": 35.2747
+    }
+}
+HTTP/1.1 200 OK
+Date: Sat, 17 Dec 2022 09:00:25 GMT
+Server: Apache/2.4.41 (Ubuntu)
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: POST
+Access-Control-Max-Age: 3600
+Access-Control-Allow-Headers: Content-Type, Access-Control-Allow-Headers, Authorization, X-Requested-With
+Content-Length: 194
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Content-Type: application/json;charset=UTF-8
+
+{
+    "status": "OK",
+    "place_id": "96a407d82bb778f76bf4192df7ca48b5",
+    "scope": "APP",
+    "reference": "65ad885e5d553816507cd4a7182caa3965ad885e5d553816507cd4a7182caa39",
+    "id": "65ad885e5d553816507cd4a7182caa39"
+}
+Request method:	POST
+Request URI:	https://rahulshettyacademy.com/maps/api/place/add/json?key=qaclick123
+Proxy:			<none>
+Request params:	<none>
+Query params:	key=qaclick123
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "accuracy": 100,
+    "name": "Beed School",
+    "phone_number": "9923580883",
+    "address": "Beed",
+    "website": "www.ashok.com",
+    "language": "India",
+    "types": [
+        "Home",
+        "House",
+        "Resident"
+    ],
+    "location": {
+        "lat": -12.077,
+        "lng": 35.2747
+    }
+}
+HTTP/1.1 200 OK
+Date: Sat, 17 Dec 2022 09:00:26 GMT
+Server: Apache/2.4.41 (Ubuntu)
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: POST
+Access-Control-Max-Age: 3600
+Access-Control-Allow-Headers: Content-Type, Access-Control-Allow-Headers, Authorization, X-Requested-With
+Content-Length: 194
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Content-Type: application/json;charset=UTF-8
+
+{
+    "status": "OK",
+    "place_id": "09948a52c46f5aacaefeacf276ea9dfe",
+    "scope": "APP",
+    "reference": "78e3d7f6a3d2d1a6aee2450d9cf0e8a078e3d7f6a3d2d1a6aee2450d9cf0e8a0",
+    "id": "78e3d7f6a3d2d1a6aee2450d9cf0e8a0"
+}
+Request method:	POST
+Request URI:	https://rahulshettyacademy.com/maps/api/place/add/json?key=qaclick123
+Proxy:			<none>
+Request params:	<none>
+Query params:	key=qaclick123
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "accuracy": 100,
+    "name": "Jarewadi Temple",
+    "phone_number": "9923580883",
+    "address": "Jarewadi",
+    "website": "www.ashok.com",
+    "language": "India",
+    "types": [
+        "Home",
+        "House",
+        "Resident"
+    ],
+    "location": {
+        "lat": -12.077,
+        "lng": 35.2747
+    }
+}
+HTTP/1.1 200 OK
+Date: Sat, 17 Dec 2022 09:00:26 GMT
+Server: Apache/2.4.41 (Ubuntu)
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: POST
+Access-Control-Max-Age: 3600
+Access-Control-Allow-Headers: Content-Type, Access-Control-Allow-Headers, Authorization, X-Requested-With
+Content-Length: 194
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Content-Type: application/json;charset=UTF-8
+
+{
+    "status": "OK",
+    "place_id": "a650a33085f805cd3e51913ba9a3c4c2",
+    "scope": "APP",
+    "reference": "d39a85cc8a7b6a5a3adb44f1810b0121d39a85cc8a7b6a5a3adb44f1810b0121",
+    "id": "d39a85cc8a7b6a5a3adb44f1810b0121"
+}
